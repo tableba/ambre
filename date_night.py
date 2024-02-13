@@ -36,6 +36,7 @@ class DateNight:
         time.sleep(3)
 
         print(random_activity)
+        print(f"{'-'*100}")
 
 
     def get_random_categorie(self, categorie):
