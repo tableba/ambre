@@ -61,13 +61,13 @@ class DateNight:
         # print all options and prompt the user to choose one
         categorie_choice = self.ask_categorie()
 
-        # random activity from the categorie the user has chosen
+        # random activity from the category the user has chosen
         random_activity = self.get_random_categorie(categorie_choice)
 
         print(f"\nVous avez choisi {categorie_choice}\
                 \n\nVotre activité seras (roulement de tambour) : ", end="")
 
-        # wait a little for the suspens
+        # wait a little for the suspense
         time.sleep(3)
 
         print(random_activity)
@@ -75,7 +75,7 @@ class DateNight:
 
 
     def get_random_categorie(self, categorie):
-        # gets a random activity from a categorie
+        # gets a random activity from a category
 
         activities = self.__possibilities_dict[categorie]
         random_activity = random.choice(activities)
