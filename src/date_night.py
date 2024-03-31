@@ -35,7 +35,7 @@ class DateNight:
                 "Plongée sous-marine",
                 "Excursion en VTT",
                 "Suicide collectif",
-                "Test ADN a deux"
+                "Test ADN à deux"
             ],
             "Culturel": [
                 "Visiter un musée",
