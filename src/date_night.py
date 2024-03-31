@@ -18,6 +18,7 @@ class DateNight:
                 "Picnic au bord d'une rivière"
             ],
             "En intérieur": [
+                "Faire des panino 🇮🇹🍕🍝",
                 "Cuisiner ensemble",
                 "Soirée cinéma avec popcorn maison",
                 "Soirée jeux de société",
@@ -33,7 +34,8 @@ class DateNight:
                 "Saut à l'élastique",
                 "Plongée sous-marine",
                 "Excursion en VTT",
-                "Suicide collectif"
+                "Suicide collectif",
+                "Test ADN a deux"
             ],
             "Culturel": [
                 "Visiter un musée",
